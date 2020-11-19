@@ -2,3 +2,6 @@ This is just a test file.
 This is a second commit.
 This is the third change.
 This is the fourth change.
+
+This one is the staging change.
+Latest change.
